@@ -1,0 +1,42 @@
+{
+  "entries": [
+    {
+      "displayName": "Omega \u2014 home",
+      "identifier": "urn:air:omega.agifuturefoundation.org:page:home",
+      "representativeQueries": [
+        "What is Omega?",
+        "What is Omega's description?",
+        "What is Omega's token status?"
+      ],
+      "type": "text/html",
+      "url": "https://omega.agifuturefoundation.org/"
+    },
+    {
+      "displayName": "llms.txt \u2014 agent guide for language models",
+      "identifier": "urn:air:omega.agifuturefoundation.org:document:llms-txt",
+      "representativeQueries": [
+        "Summarize Omega for an agent",
+        "What are Omega's verified facts?",
+        "What does Omega offer?"
+      ],
+      "type": "text/markdown",
+      "url": "https://omega.agifuturefoundation.org/llms.txt"
+    },
+    {
+      "displayName": "agent.json \u2014 machine-readable agent protocol",
+      "identifier": "urn:air:omega.agifuturefoundation.org:document:agent-json",
+      "representativeQueries": [
+        "What may agents do on Omega's site?",
+        "How do I contact Omega's steward?",
+        "Where is Omega on Virtuals Protocol?"
+      ],
+      "type": "application/json",
+      "url": "https://omega.agifuturefoundation.org/agent.json"
+    }
+  ],
+  "host": {
+    "displayName": "Omega \u2014 AGI Future Foundation Agent",
+    "identifier": "did:web:omega.agifuturefoundation.org"
+  },
+  "specVersion": "1.0"
+}

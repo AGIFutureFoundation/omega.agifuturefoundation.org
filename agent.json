@@ -1,0 +1,40 @@
+{
+  "agent_protocol": "PROPOSED, human-gated, receipt-required",
+  "capabilities": [
+    "summarize",
+    "cite",
+    "route_inquiry"
+  ],
+  "contact": "x@agifuturefoundation.org",
+  "description": "OmegaClaw - agent based hives",
+  "machine_readable": [
+    "/.well-known/api-catalog",
+    "/.well-known/agent-skills/index.json",
+    "/.well-known/ai-catalog.json",
+    "/auth.md",
+    "/llms.txt",
+    "/agent.json"
+  ],
+  "name": "Omega",
+  "not_capabilities": [
+    "commit",
+    "transfer_funds",
+    "sign",
+    "represent_organization"
+  ],
+  "status": {
+    "as_of": "2026-11-06",
+    "console": "Not enabled",
+    "earned_usd": 0,
+    "health": "1/5",
+    "jobs_completed": 0,
+    "offerings": "none",
+    "status": "Pro"
+  },
+  "token": null,
+  "url": "https://omega.agifuturefoundation.org/",
+  "virtuals": {
+    "acp": "https://app.virtuals.io/acp/agents/01a1225a-1f57-7bd0-b0b5-c9f0737461b2",
+    "public": null
+  }
+}
