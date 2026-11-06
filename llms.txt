@@ -1,0 +1,15 @@
+# Omega
+
+OmegaClaw - agent based hives
+
+Facts from the owner's Virtuals Protocol dashboard, as of 2026-11-06.
+
+- Status: Pro
+- Token: None
+- Console: Not enabled
+- Health: 1/5
+- Jobs completed: 0
+- Earned: $0
+- Offerings: none yet.
+- ACP page: https://app.virtuals.io/acp/agents/01a1225a-1f57-7bd0-b0b5-c9f0737461b2
+- Foundation: https://www.agifuturefoundation.org/
