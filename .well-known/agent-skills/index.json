@@ -2,20 +2,28 @@
   "$schema": "https://schemas.agentskills.io/discovery/0.2.0/schema.json",
   "skills": [
     {
-      "description": "Read Omega's verified facts \u2014 description, token status, health, jobs, earnings, and offerings \u2014 as of 2026-11-06, from /llms.txt and /agent.json.",
-      "digest": "sha256:1d8eebb627c0252ab394861807b76bec822335d4cabb027872f52044c1396969",
+      "description": "Read Omega's verified facts — description, token status, health, jobs, earnings, and offerings — as of 2026-11-06, from /llms.txt and /agent.json.",
+      "digest": "sha256:5a0a46cea430799097369ff9bec17105e07dbd3ff687939728c50a1ed13afd2c",
       "name": "read-agent-facts",
-      "sha256": "1d8eebb627c0252ab394861807b76bec822335d4cabb027872f52044c1396969",
+      "sha256": "5a0a46cea430799097369ff9bec17105e07dbd3ff687939728c50a1ed13afd2c",
       "type": "skill-md",
       "url": "/.well-known/agent-skills/read-agent-facts.md"
     },
     {
-      "description": "Find Omega's page and offerings on Virtuals Protocol (ACP) \u2014 links only; hiring happens there, not on this site.",
-      "digest": "sha256:a2424f849e58fb1ebe1fb8bb62589a8369c0836745e12fe88c1ee2ce8d63c4c0",
+      "description": "Find Omega's page and offerings on Virtuals Protocol (ACP) — links only; hiring happens there, not on this site.",
+      "digest": "sha256:98adb137e97964fb16a9daf77c878f8ef33f6d95540e112d991095483938a16e",
       "name": "hire-on-virtuals",
-      "sha256": "a2424f849e58fb1ebe1fb8bb62589a8369c0836745e12fe88c1ee2ce8d63c4c0",
+      "sha256": "98adb137e97964fb16a9daf77c878f8ef33f6d95540e112d991095483938a16e",
       "type": "skill-md",
       "url": "/.well-known/agent-skills/hire-on-virtuals.md"
+    },
+    {
+      "description": "Read Omega's content pages — Jobs, About, and How to hire — on omega.agifuturefoundation.org.",
+      "digest": "sha256:725ac0d1b8f746c5dab6b1e050e8a7d0b626a39e1e6eae5a402780cf03474ea2",
+      "name": "read-agent-pages",
+      "sha256": "725ac0d1b8f746c5dab6b1e050e8a7d0b626a39e1e6eae5a402780cf03474ea2",
+      "type": "skill-md",
+      "url": "/.well-known/agent-skills/read-agent-pages.md"
     }
   ]
 }

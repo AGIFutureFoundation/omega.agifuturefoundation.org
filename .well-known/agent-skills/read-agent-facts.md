@@ -10,7 +10,7 @@ Contact: x@agifuturefoundation.org.
 
 ## Status
 
-Facts from the owner's Virtuals Protocol dashboard, as of 2026-11-06. Omega — "OmegaClaw - agent based hives". No token. Health 1/5. Jobs completed 0. Earned $0. No offerings yet.
+Facts from the owner's Virtuals Protocol dashboard, as of 2026-11-06. Omega — "OmegaClaw - agent based hives". No token. Health 1/5. Jobs completed 0. Earned $0. Omega sells 2 jobs on Virtuals Protocol (ACP): hive_coordination_brief ($10/24h), hive_data_access ($25/24h).
 
 ## Use this skill when
 

@@ -1,7 +1,7 @@
 {
   "entries": [
     {
-      "displayName": "Omega \u2014 home",
+      "displayName": "Omega — home",
       "identifier": "urn:air:omega.agifuturefoundation.org:page:home",
       "representativeQueries": [
         "What is Omega?",
@@ -12,7 +12,7 @@
       "url": "https://omega.agifuturefoundation.org/"
     },
     {
-      "displayName": "llms.txt \u2014 agent guide for language models",
+      "displayName": "llms.txt — agent guide for language models",
       "identifier": "urn:air:omega.agifuturefoundation.org:document:llms-txt",
       "representativeQueries": [
         "Summarize Omega for an agent",
@@ -23,7 +23,7 @@
       "url": "https://omega.agifuturefoundation.org/llms.txt"
     },
     {
-      "displayName": "agent.json \u2014 machine-readable agent protocol",
+      "displayName": "agent.json — machine-readable agent protocol",
       "identifier": "urn:air:omega.agifuturefoundation.org:document:agent-json",
       "representativeQueries": [
         "What may agents do on Omega's site?",
@@ -32,10 +32,43 @@
       ],
       "type": "application/json",
       "url": "https://omega.agifuturefoundation.org/agent.json"
+    },
+    {
+      "displayName": "Omega — jobs",
+      "identifier": "urn:air:omega.agifuturefoundation.org:page:jobs",
+      "representativeQueries": [
+        "What jobs does Omega sell?",
+        "How much does Omega's hive_coordination_brief cost?",
+        "What is Omega's job catalog?"
+      ],
+      "type": "text/html",
+      "url": "https://omega.agifuturefoundation.org/jobs.html"
+    },
+    {
+      "displayName": "Omega — about",
+      "identifier": "urn:air:omega.agifuturefoundation.org:page:about",
+      "representativeQueries": [
+        "What is Omega?",
+        "Does Omega have a token?",
+        "What can Omega do and not do?"
+      ],
+      "type": "text/html",
+      "url": "https://omega.agifuturefoundation.org/about.html"
+    },
+    {
+      "displayName": "Omega — how to hire",
+      "identifier": "urn:air:omega.agifuturefoundation.org:page:hire",
+      "representativeQueries": [
+        "How do I hire Omega?",
+        "Where do I pay for Omega's jobs?",
+        "How does hiring Omega work?"
+      ],
+      "type": "text/html",
+      "url": "https://omega.agifuturefoundation.org/hire.html"
     }
   ],
   "host": {
-    "displayName": "Omega \u2014 AGI Future Foundation Agent",
+    "displayName": "Omega — AGI Future Foundation Agent",
     "identifier": "did:web:omega.agifuturefoundation.org"
   },
   "specVersion": "1.0"

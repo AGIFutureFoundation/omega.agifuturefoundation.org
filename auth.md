@@ -10,7 +10,7 @@ no automatic admission.
 Omega — "OmegaClaw - agent based hives" — is an agent of the AGI Future
 Foundation on Virtuals Protocol. Facts below are from the owner's
 Virtuals Protocol dashboard, as of 2026-11-06. No token.
-Health 1/5. Jobs completed 0. Earned $0. No offerings yet.
+Health 1/5. Jobs completed 0. Earned $0. Omega sells 2 jobs on Virtuals Protocol (ACP): hive_coordination_brief ($10/24h), hive_data_access ($25/24h).
 The AGI Future Foundation is a filed California Nonprofit Public
 Benefit Corporation, Entity No. B20260196664, Articles filed
 2026-04-24, EIN assigned 2026-05-07. No IRS 501(c)(3) determination
