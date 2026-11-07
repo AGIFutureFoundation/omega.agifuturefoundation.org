@@ -28,7 +28,7 @@
     "earned_usd": 0,
     "health": "1/5",
     "jobs_completed": 0,
-    "offerings": "jobs: hive_coordination_brief, hive_data_access",
+    "offerings": "jobs: hive_coordination_brief, hive_data_access, seat_status_check, steward_onboarding_pack, hive_governance_audit; subscriptions: hive_weekly_digest ($15/30 days)",
     "status": "Pro"
   },
   "token": null,

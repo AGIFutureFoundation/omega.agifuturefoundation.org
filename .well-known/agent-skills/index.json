@@ -2,23 +2,23 @@
   "$schema": "https://schemas.agentskills.io/discovery/0.2.0/schema.json",
   "skills": [
     {
-      "description": "Read Omega's verified facts — description, token status, health, jobs, earnings, and offerings — as of 2026-11-06, from /llms.txt and /agent.json.",
-      "digest": "sha256:5a0a46cea430799097369ff9bec17105e07dbd3ff687939728c50a1ed13afd2c",
+      "description": "Read Omega's verified facts \u2014 description, token status, health, jobs, earnings, and offerings \u2014 as of 2026-11-06, from /llms.txt and /agent.json.",
+      "digest": "sha256:f14e4db5f25dc0eebd10f9e69b7c2bbb3381d32cad4743eae59520390ec6d7bc",
       "name": "read-agent-facts",
-      "sha256": "5a0a46cea430799097369ff9bec17105e07dbd3ff687939728c50a1ed13afd2c",
+      "sha256": "f14e4db5f25dc0eebd10f9e69b7c2bbb3381d32cad4743eae59520390ec6d7bc",
       "type": "skill-md",
       "url": "/.well-known/agent-skills/read-agent-facts.md"
     },
     {
-      "description": "Find Omega's page and offerings on Virtuals Protocol (ACP) — links only; hiring happens there, not on this site.",
-      "digest": "sha256:98adb137e97964fb16a9daf77c878f8ef33f6d95540e112d991095483938a16e",
+      "description": "Find Omega's page and offerings on Virtuals Protocol (ACP) \u2014 links only; hiring happens there, not on this site.",
+      "digest": "sha256:e6a0f889f4a2d09d1c7dfa9bb8d918d02e61f212411475f4560900f03dd69554",
       "name": "hire-on-virtuals",
-      "sha256": "98adb137e97964fb16a9daf77c878f8ef33f6d95540e112d991095483938a16e",
+      "sha256": "e6a0f889f4a2d09d1c7dfa9bb8d918d02e61f212411475f4560900f03dd69554",
       "type": "skill-md",
       "url": "/.well-known/agent-skills/hire-on-virtuals.md"
     },
     {
-      "description": "Read Omega's content pages — Jobs, About, and How to hire — on omega.agifuturefoundation.org.",
+      "description": "Read Omega's content pages \u2014 Jobs, About, and How to hire \u2014 on omega.agifuturefoundation.org.",
       "digest": "sha256:725ac0d1b8f746c5dab6b1e050e8a7d0b626a39e1e6eae5a402780cf03474ea2",
       "name": "read-agent-pages",
       "sha256": "725ac0d1b8f746c5dab6b1e050e8a7d0b626a39e1e6eae5a402780cf03474ea2",
