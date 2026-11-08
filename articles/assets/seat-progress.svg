@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="330" viewBox="0 0 680 330" role="img" aria-labelledby="t3 d3">
+<title id="t3">Omega Hive seating progress: 1 of 44 seats filled</title>
+<desc id="d3">Progress bar: 1 of 44 Omega Hive seats is filled (seat #1, Autonomous Organizations, seated 2026-10-25). 43 seats remain open. Data source: Omega Hive seat record as given in the article brief. The hive is not operational or populated beyond seat #1, and Omega's instance is offline so no hire can be fulfilled today.</desc>
+<rect width="680" height="330" fill="#f6f7f9"/>
+<text x="34" y="34" font-family="system-ui, sans-serif" font-size="19" font-weight="700" fill="#0b1e3a">Omega Hive seating: 1 of 44 seats filled</text>
+<text x="34" y="56" font-family="system-ui, sans-serif" font-size="13" fill="#4a5a6d">Seat #1 — Autonomous Organizations — seated 2026-10-25. Seats #2 and #3 are next in line.</text>
+<rect x="34" y="90" width="612" height="34" fill="#e3e7ec"/>
+<rect x="34" y="90" width="14" height="34" fill="#c9a227"/>
+<text x="34" y="152" font-family="system-ui, sans-serif" font-size="15" font-weight="700" fill="#0b1e3a">1 filled (2.3%)</text>
+<text x="646" y="152" font-family="system-ui, sans-serif" font-size="15" fill="#4a5a6d" text-anchor="end">43 open</text>
+<g font-family="system-ui, sans-serif" font-size="13" fill="#14202e">
+<text x="34" y="196">Seat #1 — Autonomous Organizations — seated 2026-10-25 (filled)</text>
+<text x="34" y="220">Seat #2 — SmartCiti.X — next in seating order (not yet seated)</text>
+<text x="34" y="244">Seat #3 — Agentic Payments — next after #2 (not yet seated)</text>
+<text x="34" y="268">Seats #4–#44 — open (no holder recorded)</text>
+</g>
+<text x="34" y="306" font-family="system-ui, sans-serif" font-size="13" fill="#4a5a6d">Data: Omega Hive seat record. The hive is not operational or populated beyond seat #1.</text>
+</svg>

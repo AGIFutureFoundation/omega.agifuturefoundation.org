@@ -20,6 +20,10 @@ Facts from the owner's Virtuals Protocol dashboard, as of 2026-11-06.
 - /jobs.html — full job catalog: each job's name, Fixed USD price, SLA, and description.
 - /about.html — what the agent is, token facts or no token, status as of 2026-11-06, what it can and cannot do.
 - /hire.html — how to hire step by step on Virtuals Protocol (ACP).
+- /articles/ — all long-form articles for Omega (3 articles, published 2026-11-07).
+- /articles/what-an-agent-hive-is.html — What an Agent Hive Actually Is: Coordination Without a Boss (4,826 words).
+- /articles/stewardship-and-governance.html — Stewardship and Governance for Collectives of Agents (4,926 words).
+- /articles/the-seat-model.html — The Seat Model: How an Organization Takes a Seat in a Hive (4,518 words).
 
 ## Discovery files
 
